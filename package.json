@@ -1,0 +1,25 @@
+{
+  "name": "sugar-scan",
+  "version": "0.0.2",
+  "description": "sugar2.0框架的文件扫描组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshangshi/sugar-scan.git"
+  },
+  "keywords": [
+    "文件扫描"
+  ],
+  "author": "ss.feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengshangshi/sugar-scan/issues"
+  },
+  "homepage": "https://github.com/fengshangshi/sugar-scan#readme",
+  "dependencies": {
+    "sugar-type": "0.0.3"
+  }
+}
